@@ -38,5 +38,5 @@ direction = 0
 prev_dir = 0
 tolerance = 10
 basic.forever(function () {
-	
+    basic.showNumber(0)
 })
